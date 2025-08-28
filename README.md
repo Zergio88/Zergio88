@@ -14,10 +14,10 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>📍 Based near <b>Argentina</b></li>
     <li>🏢 I'm Studying a <b>degree in Computer Science</b></li>
     <li>🌱 I'm currently learning <b>OCP Java SE 21</b></li>
-    <li>📮 You can contact me by sending an email or through:<a href="https://www.linkedin.com/in/sergio-mamani-3405" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Sergio" height="40" width="45" /></a>
+    <li>📮 You can contact me by sending an email or through: <a href="https://www.linkedin.com/in/sergio-mamani-3405" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Sergio" height="40" width="45" /></a>
   </ul>
-Passionate IT engineer and trainer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+Passionate IT, I am always looking for new challenges.
+<br>For a few years now I have been focusing on software development, especially with <b>Java</b> and <b>Springboot</b> solutions. I'm also working on <b>learning contents</b> on these same topics.<br>
 If you want to discuss about it, feel free to contact me.
 </p>
 
@@ -31,6 +31,7 @@ If you want to discuss about it, feel free to contact me.
 - 📋 Languages:
     
     [![Java](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+    <br>
     <br>
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
