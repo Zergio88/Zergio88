@@ -12,9 +12,9 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>enthusiastic developer</b></li>
     <li>📍 Based near <b>Argentina</b></li>
-    <li>🏢 I'm Studying a <b>degree in computer science</b></li>
+    <li>🏢 I'm Studying a <b>degree in Computer Science</b></li>
     <li>🌱 I'm currently learning <b>OCP Java SE 21</b></li>
-    <li>📮 You can contact me by sending an email or through:<b>kevin@linit.io</b>
+    <li>📮 You can contact me by sending an email or through:<a href="https://www.linkedin.com/in/sergio-mamani-3405" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Sergio" height="40" width="45" /></a>
   </ul>
 Passionate IT engineer and trainer, I am always looking for new challenges.
 <br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
