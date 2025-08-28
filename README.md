@@ -6,8 +6,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
