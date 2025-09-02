@@ -76,5 +76,4 @@ If you want to discuss about it, feel free to contact me.
 <br> 
 
 -----
-Credits: [Sarath P M](https://github.com/sarath-pm)
 Last Edited on: 28/08/2025
