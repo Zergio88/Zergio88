@@ -76,4 +76,13 @@ If you want to discuss about it, feel free to contact me.
 <br> 
 
 -----
-Last Edited on: 28/08/2025
+
+<!-- Tema "tokyonight" -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&theme=tokyonight)
+
+<!-- Mostrar commits privados -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&include_all_commits=true&theme=dark)
+
+<!-- Mostrar lenguajes más usados -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zergio88&layout=compact&theme=gruvbox)
+
