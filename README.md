@@ -28,9 +28,10 @@ If you want to discuss about it, feel free to contact me.
 
 <p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Zergio88&theme=chartreuse-dark&show_icons=true/460/300">
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zergio88&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"></p>
-
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Zergio88&theme=chartreuse-dark&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69/460/300"></p>
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&theme=chartreuse-dark) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zergio88&theme=chartreuse-dark)](https://git.io/streak-stats) 
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zergio88&theme=chartreuse-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zergio88)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
