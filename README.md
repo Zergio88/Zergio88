@@ -24,6 +24,16 @@ If you want to discuss about it, feel free to contact me.
 
 <br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Zergio88&theme=blue-green&show_icons=true/460/300">
+
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zergio88&show_icons=true&locale=en&layout=compact&theme=blue-green"/460/300"></p>
+
+<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Zergio88&theme=blue-green&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+
+<br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
@@ -76,13 +86,4 @@ If you want to discuss about it, feel free to contact me.
 <br> 
 
 -----
-
-<!-- Tema "tokyonight" -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&theme=chartreuse-dark)
-
-<!-- Mostrar commits privados -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
-
-<!-- Mostrar lenguajes más usados -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zergio88&layout=compact&theme=chartreuse-dark)
 
