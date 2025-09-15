@@ -77,12 +77,9 @@ If you want to discuss about it, feel free to contact me.
 
 -----
 
-<!-- Tema "tokyonight" -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&theme=chartreuse-dark)
-
 <!-- Mostrar commits privados -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&include_all_commits=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
 <!-- Mostrar lenguajes más usados -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zergio88&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zergio88&layout=compact&theme=chartreuse-dark)
 
