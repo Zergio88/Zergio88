@@ -26,8 +26,8 @@ If you want to discuss about it, feel free to contact me.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-![Zergio88 GitHub stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&theme=chartreuse-dark)
 ![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zergio88&theme=chartreuse-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+![Zergio88 GitHub stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&theme=chartreuse-dark)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
