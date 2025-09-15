@@ -26,7 +26,8 @@ If you want to discuss about it, feel free to contact me.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-![Zergio88 GitHub stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&theme=chartreuse-dark) 
+![Zergio88 GitHub stats](https://github-readme-stats.vercel.app/api?username=Zergio88&show_icons=true&theme=chartreuse-dark)
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zergio88&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zergio88&theme=chartreuse-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
